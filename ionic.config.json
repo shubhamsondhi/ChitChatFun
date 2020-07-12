@@ -1,0 +1,8 @@
+{
+  "name": "chitchatFun",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6e849efc"
+}
